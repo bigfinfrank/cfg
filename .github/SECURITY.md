@@ -1,5 +1,5 @@
 # Security Policy
-*Security Policy revision 1.0.0 last updated November 27th 2021*
+*Security Policy revision 1.0.1 last updated November 27th 2021*
 
 I take  privacy and security extremely seriously. I run this config personally so of course this has been a top priority for me since before this was even a config and it was just console commands I'd run periodically.
 With that said, I want to give people a way to communicate issues to me in a professional manor, and if I think it's reasonable I may offer to credit you in the README.
@@ -24,7 +24,7 @@ You can report vulnerabilities to cfgsecurity@fin.fail, just make sure you follo
 4. Do not tell anyone that you have found or disclosed a vulnerability in any way.
 5. If you do not specify whether you would like to be credited with discovering this vulnerability, I will assume you'd like to be kept anonymous.
 6. I may publicly disclose any vulnerabilities in any form I would like. This includes complete disclosure or partial. (While respecting privacy and anonymity if applicable).
-7. The only versions relevant to me are the latest releases per game, pre-releases per game, and the most recent unpublished repository code per game. 
+7. The only versions relevant to me are the latest releases per game, prereleases per game, and the most recent unpublished repository code per game.
 
 
 ## Non-vulnerabilities
