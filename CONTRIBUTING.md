@@ -6,7 +6,7 @@ This is a work-in-progress but you should follow what's here.
 I have a couple general formatting rules.
 
 ### General rules
-- All links should be `https://` not `http://`. If the site doesn't support HTTPS then frankly unless it's ***really*** important, it doesn't deserve to be linked to. 
+- All links should be `https://` not `http://`. If the site doesn't support HTTPS then frankly unless it's ***really*** important, it doesn't deserve to be linked to.
 
 ### New lines, whitespace (spaces), and line endings
 - You shouldn't use TABs, only spaces. Indents should be two spaces in size.
